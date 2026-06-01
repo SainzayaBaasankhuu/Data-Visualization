@@ -13,10 +13,10 @@ This repository includes Power BI dashboard, Jupyter/Colab notebooks, and video 
 This interactive notebook explores how renewable energy adoption relates to key socioeconomic indicators such as:
 
 - GDP per capita  
-- Life Expectancy
+- Life expectancy
 - Energy mix composition  
 - CO₂ emissions  
-- Child Mortality
+- Child mortality
 
 The visualization allows users to interact with global data, compare countries, and observe long‑term trends.
 
