@@ -8,7 +8,8 @@ This repository includes Power BI dashboard, Jupyter/Colab notebooks, and video 
 ## Project 1: Interactive Visualization — Renewable Energy & Socioeconomic Development
 **Tool:** Python (Google Colab)  
 **Notebook:** `Interactive Visualization - Global Renewable Energy Adoption and Socioeconomic Development.ipynb`  
-**Dataset:** Loaded directly from GitHub using a raw link for full reproducibility  
+**Dataset:** [Loaded directly from GitHub using a raw link for full reproducibility ](https://raw.githubusercontent.com/SainzayaBaasankhuu/Data-Visualization/main/final_clean_merged_owid.xlsx
+) 
 
 This interactive notebook explores how renewable energy adoption relates to key socioeconomic indicators such as:
 
